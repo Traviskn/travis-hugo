@@ -1,0 +1,11 @@
+baseurl = "http://traviskn.github.io/"
+languageCode = "en-us"
+title = "Travis Nuttall"
+theme = "hugo_theme_travis"
+canonifyurls = true
+
+[taxonomies]
+  tag = "tags"
+
+[Params]
+  Author = "Travis Nuttall"

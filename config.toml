@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Travis Nuttall"
 theme = "hugo_theme_travis"
 canonifyurls = true
+pygmentsstyle = "default"
+PygmentsCodeFences = true
 
 [taxonomies]
   tag = "tags"

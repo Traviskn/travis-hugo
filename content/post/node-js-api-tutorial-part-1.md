@@ -9,7 +9,7 @@ In this first tutorial we are going to lay the foundation for a simple website
 powered by a Node api server. By the end of this series of tutorials, we will
 have a Node website with basic user registration and authentication capabilities.
 I assume that you have a basic understanding of JavaScript and web development.
-You can find the full source code for the project [here](github.com).
+You can find the full source code for the project [here](https://github.com/Traviskn/node_api_tutorial).
 Let's dive in!
 
 ## Installing Our Tools

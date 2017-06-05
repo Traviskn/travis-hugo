@@ -2,6 +2,7 @@
 date = "2016-06-11"
 title = "Node.js API Tutorial Part 1"
 tags = ["javascript", "node", "tutorial"]
+series = ["Node API Tutorial"]
 +++
 
 [Node.js](https://nodejs.org) is a great technology for creating web apps!

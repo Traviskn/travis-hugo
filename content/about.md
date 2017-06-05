@@ -8,11 +8,11 @@ Hi there! Thanks for checking out my blog.
 
 ## My Background
 
-I grew up near Seattle, Washington and went to school at [Brigham Young University](http://www.byu.edu) studying Information Systems.  Now I live in Salt Lake Utah with my wife and daughter.
+I grew up near Seattle, Washington and went to school at [Brigham Young University](http://www.byu.edu) studying Information Systems.  Now I live near Salt Lake City, Utah with my wife and daughter.
 
-I spent two years living in Japan serving as a missionary for the [Church of Jesus Christ of Latter-Day Saints](http://www.mormon.org).  I lived and worked in Shikoku, Wakayama, Okayama, Osaka, and Kobe.  I love the people and culture of Japan!
+I spent two years living in Japan serving as a missionary for [my church](http://www.mormon.org).  I lived and worked in Shikoku, Wakayama, Okayama, Osaka, and Kobe.  I love the people and culture of Japan!
 
-I am passionate about technology and love building web and mobile applications.  I am experienced with both front and back end development.  Some technologies I work with include React.js, React Native, Node.js, Ruby on Rails, Django, PostgreSQL, and RethinkDB.
+I am passionate about technology and love building web and mobile applications.  I am experienced with both front and back end development.  Some technologies I work with include React.js, React Native, Node.js, Ruby on Rails, Django, and PostgreSQL.
 
 Check out the links in the footer if you want to find me on social media!
 
